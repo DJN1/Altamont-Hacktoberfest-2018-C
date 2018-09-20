@@ -1,4 +1,4 @@
-# Altamont-Octoberfest2018-C
+# Altamont-Octoberfest2018
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by C4E to get people involved in [Open Source](https://github.com/open-source) and to learn more about Computer Science. Create your very first pull request to any of the Altamont Repositories listed below:
