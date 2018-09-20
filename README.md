@@ -19,7 +19,7 @@ To contribute:
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/Altamont-Octoberfest2018-C.git
 ```
 
 * Create a branch
