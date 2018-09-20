@@ -54,6 +54,5 @@ Debug/
 .vs/
 
 # IDE settings
-*.vcxproj
 *.vcxproj.filters
 *.vcxproj.user
