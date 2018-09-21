@@ -23,6 +23,7 @@
     <ProjectGuid>{2227C495-D971-4321-9545-23C33DE85272}</ProjectGuid>
     <RootNamespace>AltamontOctoberfest2018C</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>Altamont-Hacktoberfest2018-C</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -115,7 +116,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Altamont-Octoberfest2018-C.c" />
+    <ClCompile Include="Altamont-Hacktoberfest2018-C.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
