@@ -41,4 +41,6 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
+*FOR MORE DETAILS PLEASE READ [howToContribute.md](https://github.com/DJN1/Altamont-Hacktoberfest2018-C/blob/master/howToContribute.md)
+
 
