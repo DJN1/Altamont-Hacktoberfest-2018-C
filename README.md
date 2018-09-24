@@ -7,7 +7,7 @@ A month-long celebration from October 1st - 31st sponsored by C4E to get people 
 * [HTML](https://github.com/Dino11223567/Altamont-Hacktoberfest-2018-HTML)
 * [Java](#)
 * [Javascript](#)
-* [Python](#)
+* [Python](https://github.com/mamurray318/Altamont-Hacktoberfest-2018-Python)
 * [R](https://github.com/DJN1/Altamont-Hacktoberfest2018-R)
 
 ## How to contribute to this project
