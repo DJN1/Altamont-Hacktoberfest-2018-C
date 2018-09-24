@@ -16,6 +16,9 @@ To contribute:
 * Once you have followed the steps the respective `howToContribute.md`, create a pull request by going to the pull request tab. If you taste
 
 ## Getting started
+
+*FOR MORE DETAILS PLEASE READ [howToContribute.md](https://github.com/DJN1/Altamont-Hacktoberfest2018-C/blob/master/howToContribute.md)*
+
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 
 ```markdown
@@ -41,6 +44,6 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
-*FOR MORE DETAILS PLEASE READ [howToContribute.md](https://github.com/DJN1/Altamont-Hacktoberfest2018-C/blob/master/howToContribute.md)
+
 
 
