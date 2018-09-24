@@ -17,7 +17,7 @@ To contribute:
 
 ## Getting started
 
-*FOR MORE DETAILS PLEASE READ [howToContribute.md](https://github.com/DJN1/Altamont-Hacktoberfest2018-C/blob/master/howToContribute.md)*
+*FOR MORE DETAILED INSTRUCTIONS,  PLEASE READ [howToContribute.md](https://github.com/DJN1/Altamont-Hacktoberfest2018-C/blob/master/howToContribute.md)*
 
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 
