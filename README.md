@@ -8,6 +8,7 @@ A month-long celebration from October 1st - 31st sponsored by C4E to get people 
 * [Java](#)
 * [Javascript](#)
 * [Python](#)
+* [R](https://github.com/DJN1/Altamont-Hacktoberfest2018-R)
 
 ## How to contribute to this project
 To contribute:
