@@ -1,6 +1,6 @@
 # Altamont-Hacktoberfest2018-C: How to Contribute
-## How to create a project 
-### Windows(Visual Studio 2017):
+If you need help, please contact an officer([Henry](https://github.com/Dino11223567), [Mary Allen](https://github.com/mamurray318), [David](https://github.com/DJN1) or [Hampton](https://github.com/hamptonwalker)), [Mr. James](https://github.com/ryanjames1729) or [Mr. Dominguez](https://github.com/robertjdominguez)
+## Windows(Visual Studio 2017):
 1. Fork the repo by clicking the Fork 
 2. Clone the repo either by clicking the download button, in the [Github Desktop App](https://desktop.github.com/) or by typing `git clone https://github.com/YOURGITHUBUSERNAME/Altamont-Hacktoberfest2018-C.git` (you need to have git installed to take this approach.
 3. Open Visual Studio(if you have not installed it, downloaded [here](https://visualstudio.microsoft.com/vs/)
