@@ -21,22 +21,12 @@ int main()
 	
 	printf("yummy");
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	print("hello")
+		Printf('hello')
 	
 	system("PAUSE");
 	return 0;
 }
+      print("hello");
+
+	      printf("hello);
