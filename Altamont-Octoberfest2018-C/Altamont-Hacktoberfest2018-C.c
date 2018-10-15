@@ -21,6 +21,9 @@ int main()
 	
 	printf("yummy");
 	
+	printf("I want pizza");
+	
 	system("PAUSE");
 	return 0;
 }
+
