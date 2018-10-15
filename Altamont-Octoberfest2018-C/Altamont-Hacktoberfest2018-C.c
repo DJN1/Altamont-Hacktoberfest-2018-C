@@ -21,6 +21,8 @@ int main()
 	
 	printf("yummy");
 	
+	printf("I like playing videogames")
+	
 	system("PAUSE");
 	return 0;
 }
