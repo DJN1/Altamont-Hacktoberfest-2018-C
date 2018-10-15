@@ -21,7 +21,7 @@ int main()
 	
 	printf("yummy");
 	
-	printf("l33t h@x0r")
+	printf("l33t h@x0r");
 	
 	
 	
