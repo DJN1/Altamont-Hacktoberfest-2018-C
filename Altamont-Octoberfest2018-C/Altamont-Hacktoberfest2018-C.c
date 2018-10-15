@@ -15,6 +15,8 @@ int main()
 	
 	printf("i want a free tshirt");
 	
+	print("ughhhhh tired");
+	
 	
 	
 	
