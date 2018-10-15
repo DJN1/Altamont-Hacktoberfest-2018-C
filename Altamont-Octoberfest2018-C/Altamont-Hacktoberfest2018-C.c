@@ -21,7 +21,7 @@ int main()
 	
 	printf("yummy");
 	
-	
+	printf("Monday is almost over.\n");
 	
 	
 	
