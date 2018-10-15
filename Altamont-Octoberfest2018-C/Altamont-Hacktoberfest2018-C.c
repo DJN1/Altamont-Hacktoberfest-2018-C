@@ -21,6 +21,8 @@ int main()
 	
 	printf("yummy");
 	
+	printf("Hacktober Fest 2018-COlin HAtcher");
+	
 	system("PAUSE");
 	return 0;
 }
