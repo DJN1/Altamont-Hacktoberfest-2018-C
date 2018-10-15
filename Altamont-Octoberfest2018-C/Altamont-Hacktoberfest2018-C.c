@@ -19,6 +19,7 @@ int main()
 
 	print("Give me pizza");
 	
+	printf("yummy");
 	
 	system("PAUSE");
 	return 0;
