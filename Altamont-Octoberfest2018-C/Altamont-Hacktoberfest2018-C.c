@@ -15,7 +15,7 @@ int main()
 	
 	printf("i want a free tshirt");
 	
-	
+	print("Give me pizza");
 	
 	
 	system("PAUSE");
