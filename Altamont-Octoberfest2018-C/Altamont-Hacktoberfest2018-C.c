@@ -16,8 +16,8 @@ int main()
 	printf("i want a free tshirt");
 	
 	print("ughhhhh tired");
-	
-	
+
+	print("Give me pizza");
 	
 	
 	system("PAUSE");
