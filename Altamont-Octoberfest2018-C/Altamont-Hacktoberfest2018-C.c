@@ -41,6 +41,8 @@ int main()
 
 	printf("It's Over 9000");
 	
+	printf("\nsick nasty\n");
+	
 	
 	
 	
