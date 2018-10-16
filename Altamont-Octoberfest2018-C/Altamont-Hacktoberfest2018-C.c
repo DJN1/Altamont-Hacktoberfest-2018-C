@@ -21,6 +21,8 @@ int main()
 	
 	printf("yummy");
 	
+	printf("Monday is almost over.\n");
+  
 	printf("I'm hungry!");
 	
 	printf("l33t h@x0r");
