@@ -21,6 +21,8 @@ int main()
 	
 	printf("yummy");
 	
+	printf("I like playing videogames")
+
 	print("I want food!")
 
 	printf("Why is there a giant bag of sour patch kids in the Computer lab?");
@@ -40,7 +42,7 @@ int main()
 	
 	
 
-	
+
 	system("PAUSE");
 	return 0;
 }
