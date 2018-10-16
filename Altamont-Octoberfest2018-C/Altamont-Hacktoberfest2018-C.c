@@ -22,7 +22,26 @@ int main()
 	printf("yummy");
 	
 	print("I want food!")
+
+	printf("Why is there a giant bag of sour patch kids in the Computer lab?");
+
+	printf("It's Over 9000")
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
 	
 	system("PAUSE");
 	return 0;
 }
+
