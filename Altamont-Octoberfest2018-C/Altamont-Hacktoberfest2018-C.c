@@ -21,6 +21,8 @@ int main()
 	
 	printf("yummy");
 	
+	print("hello");
+	
 	printf("I want pizza");
 	
 	printf("Hacktober Fest 2018-COlin HAtcher");
@@ -50,4 +52,5 @@ int main()
 	system("PAUSE");
 	return 0;
 }
+
 
