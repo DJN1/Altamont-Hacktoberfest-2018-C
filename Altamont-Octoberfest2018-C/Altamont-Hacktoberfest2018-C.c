@@ -23,6 +23,21 @@ int main()
 	
 	printf("I'm hungry!");
 	
+	printf("l33t h@x0r");
+	
+	print("hello");
+	
+	printf("I want pizza");
+	
+	printf("Hacktober Fest 2018-COlin HAtcher");
+  
+	printf("I like playing videogames");
+
+	print("I want food!");
+
+	printf("Why is there a giant bag of sour patch kids in the Computer lab?");
+
+	printf("It's Over 9000");
 	
 	
 	
@@ -36,9 +51,10 @@ int main()
 	
 	
 	
-	
-	
-	
+
+
 	system("PAUSE");
 	return 0;
 }
+
+
