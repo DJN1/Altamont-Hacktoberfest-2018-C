@@ -43,6 +43,8 @@ int main()
 	
 	printf("\nsick nasty\n");
 	
+	printf("\n2020 hacktober\n");
+	
 	
 	
 	
